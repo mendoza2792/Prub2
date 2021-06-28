@@ -48,6 +48,7 @@ class Receta extends \Phalcon\Mvc\Model
      * @return Receta|\Phalcon\Mvc\Model\ResultInterface
      */
     /**jjjjjjjjjjjjjj */
+    /*Esto es..*/
     public static function findFirst($parameters = null)
     {
         return parent::findFirst($parameters);
