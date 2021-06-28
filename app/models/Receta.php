@@ -47,6 +47,7 @@ class Receta extends \Phalcon\Mvc\Model
      * @param mixed $parameters
      * @return Receta|\Phalcon\Mvc\Model\ResultInterface
      */
+    /**jjjjjjjjjjjjjj */
     public static function findFirst($parameters = null)
     {
         return parent::findFirst($parameters);
